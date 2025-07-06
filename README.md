@@ -1,1 +1,2 @@
-# coding-project-template
+# eCommerce Shopping Project for Plants
+Built the front-end of a "Paradise Nursery" shopping application. The application interface allows a user to browse a variety of houseplants and add them to a shopping cart. The shopping cart feature lets you see all your items and their total cost. User shopping cart allows adjustment to the number of items in the cart before checkout, and shows how many items are in the cart before checking out.
